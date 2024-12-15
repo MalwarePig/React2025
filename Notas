@@ -1,0 +1,18 @@
+
+
+
+
+React trabaja con el virtual doom, que es una versión de doom que se ejecuta en un entorno virtualizado. ayuda a ctualizar solo el componente 
+de doom, sin afectar el resto de la aplicación.
+
+==== Iniciar una plaicacion con create react app ====
+npx create-react-app NameProject //solo se permiten letras minus
+
+==== Iniciar servicio de aplicacion ====
+npm start
+
+==== Nombre de componentes ====
+Siempre inicia con mayusculas
+
+
+ 
